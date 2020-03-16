@@ -3,4 +3,8 @@ struct LZSwiftPage {
     func v1() {
         print("v1")
     }
+    
+    func v2() {
+        print("v2")
+    }
 }
